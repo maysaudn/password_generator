@@ -1,0 +1,5 @@
+[X] It should ask the user how many passwords to generate
+[X] It should ask the user the length of the passwords to generate
+[X] It should print the appropriate amount of passwords at the appropriate length
+[X] Each password should contain at least one special character
+[X] Each password should contain at least one upper case letter
